@@ -1,0 +1,134 @@
+{
+  "courses": [
+    {
+      "Tests": [
+        95.5
+      ], 
+      "tWeight": 0.2, 
+      "gp": 3.0, 
+      "Quizzes": [
+        100.0
+      ], 
+      "qWeight": 0.0, 
+      "hWeight": 0.5, 
+      "Labs": [
+        100.0, 
+        100.0, 
+        100.0, 
+        100.0, 
+        90.0, 
+        0.0, 
+        90.0
+      ], 
+      "Course": "Scientific Computing", 
+      "Homework": [
+        98.0, 
+        95.0
+      ], 
+      "pWeight": 0.0, 
+      "fWeight": 0.2, 
+      "lWeight": 0.1, 
+      "Final": [
+        100.0
+      ], 
+      "Projects": [
+        100.0
+      ], 
+      "Class Number": "MTH-280"
+    }, 
+    {
+      "Tests": [
+        50.0, 
+        57.0
+      ], 
+      "tWeight": 0.5, 
+      "gp": 3.0, 
+      "Quizzes": [
+        100.0
+      ], 
+      "qWeight": 0.0, 
+      "hWeight": 0.12, 
+      "Labs": [], 
+      "Course": "Linear Algebra", 
+      "Homework": [
+        100.0, 
+        100.0, 
+        98.08, 
+        0.0, 
+        0.0
+      ], 
+      "pWeight": 0.0, 
+      "fWeight": 0.38, 
+      "lWeight": 0.0, 
+      "Final": [
+        100.0
+      ], 
+      "Projects": [
+        100.0
+      ], 
+      "Class Number": "MTH-221"
+    }, 
+    {
+      "Tests": [
+        80.0
+      ], 
+      "tWeight": 0.4, 
+      "gp": 3.0, 
+      "Quizzes": [
+        100.0
+      ], 
+      "qWeight": 0.2, 
+      "hWeight": 0.0, 
+      "Labs": [], 
+      "Course": "Probability", 
+      "Homework": [
+        100.0
+      ], 
+      "pWeight": 0.0, 
+      "fWeight": 0.4, 
+      "lWeight": 0.0, 
+      "Final": [
+        100.0
+      ], 
+      "Projects": [
+        100.0
+      ], 
+      "Class Number": "MTH-331"
+    }, 
+    {
+      "Tests": [
+        83.33, 
+        76.66666666666667
+      ], 
+      "tWeight": 0.3, 
+      "gp": 4.0, 
+      "Quizzes": [
+        100.0
+      ], 
+      "qWeight": 0.05, 
+      "hWeight": 0.1, 
+      "Labs": [
+        100.0, 
+        100.0, 
+        100.0, 
+        100.0, 
+        100.0
+      ], 
+      "Course": "java", 
+      "Homework": [
+        30.0, 
+        76.5
+      ], 
+      "pWeight": 0.15, 
+      "fWeight": 0.2, 
+      "lWeight": 0.2, 
+      "Final": [
+        100.0
+      ], 
+      "Projects": [
+        100.0
+      ], 
+      "Class Number": "CIS-181"
+    }
+  ]
+}
